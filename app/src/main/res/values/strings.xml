@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"><b>Food Ordering System Layout </b></string>
+    <string-array name="data">
+        <item color="#000000"> Makarand Shahnivas</item>
+    </string-array>
+    <string-array name="data1">
+        <item> Relevance</item>
+    </string-array>
+    <string-array name="titles">
+        <item color="#000000"><b>Burger King</b></item>
+        <item color="#000000"><b>McDonalds</b></item>
+        <item color="#000000"><b>Elco</b></item>
+        <item color="#000000"><b>FCC</b></item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>American,Fast Food\n2 outlets near you\n【%】 2 burgers starting at Rs 100/-\n\n★4.3  |   33 mins     | Rs. 350 for two</item>
+        <item>Fast food\n2 outlets near you\n\n★4.3  |   30 mins     | Rs. 500 for two</item>
+        <item>Street food,Chinese,South Indian\n\n★4.3  |   31 mins     | Rs. 400 for two</item>
+        <item>Juicy and Spicy Chicken Pieces\n\n★4.0  |   10 mins     | Rs. 250 for two</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nearyou"
+        android:icon="@drawable/youarehere"
+        android:title="NearYou"
+        />
+    <item
+        android:id="@+id/search1"
+        android:icon="@drawable/search"
+        android:title="Search"
+        />
+    <item
+        android:id="@+id/cart1"
+        android:icon="@drawable/cart"
+        android:title="Cart"
+        />
+    <item
+        android:id="@+id/acc"
+        android:icon="@drawable/account"
+        android:title="Account"
+        />
+
+</menu>
